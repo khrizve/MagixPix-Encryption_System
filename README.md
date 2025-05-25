@@ -4,6 +4,10 @@
 
 ---
 
+![MagicPix](magicpix_banner.jpg)
+
+---
+
 ## ✨ Features
 
 * 🧙‍♂️ **Image-to-Audio Conversion**
